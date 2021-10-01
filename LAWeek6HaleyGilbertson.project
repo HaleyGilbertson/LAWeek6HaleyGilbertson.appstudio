@@ -36,8 +36,16 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "Calculator",
+            "Calculator.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "newControls",
+            "newControls.json"
           ]
         }
       ],
