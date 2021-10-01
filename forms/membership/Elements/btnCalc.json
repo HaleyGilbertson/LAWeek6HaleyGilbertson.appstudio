@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnCalc",
-  "left": 227,
+  "left": 216,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -61,6 +61,6 @@
   "style": "",
   "toggleControl": "",
   "top": 277,
-  "value": "Button",
+  "value": "Calculate",
   "width": "auto"
 }
